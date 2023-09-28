@@ -20,7 +20,7 @@ for (int i = 0; i < m; i++)
     return result;
 }
 
-
+// Метод вывода двумерного массива
 void PrintDoubleArray (int[,] DoubleArray)
 {
     for (int i = 0; i < DoubleArray.GetLength(0); i++)
